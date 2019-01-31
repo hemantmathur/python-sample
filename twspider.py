@@ -1,3 +1,5 @@
+#Import Twitter friends list based on Twitter name
+
 from urllib.request import urlopen
 import urllib.error
 import twurl
